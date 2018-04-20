@@ -6,3 +6,4 @@
 
 稍作改动
 
+![](https://github.com/Sogrey/ExpandableLayout/blob/master/image.gif?raw=true)
